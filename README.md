@@ -3,7 +3,7 @@
 
 Hello, I am an enthusiastic and passionate software engineer with one and a half years of experience in software development. Currently specializing in front-end development with Next.js, Redux, and React to create user interfaces. Additionally, I am proficient with the responsive design of websites using CSS, Sass, Bootstrap, and Tailwind.
 
-Skills:  JavaScript | React.js | Next.js | Redux | Python | Django | Laravel
+Skills:  JavaScript | React.js | Next.js | Redux | Python | Django | Node.js
 
 - 🌱 I’m currently learning React || Redux || Next.js 
 - 📫 How to reach me: jobayer.rahman1997@gmail.com 
